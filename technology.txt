@@ -1,0 +1,46 @@
+E-Commerce website for Brandhubstore -
+
+Technology :
+
+Frontend:
+
+HTML
+CSS
+React.js
+Redux
+React-bootstrap - (optional if want use)
+material UI -(optional if want use)
+
+Backend:
+
+REST API
+JWT
+Middleware
+MongoDB/mysql/postgres/node js - (not confirm yet)
+
+
+Features Admin:
+
+Admin Panel
+Admin Login
+Admin Profile
+Add New Admin
+Order Management
+User Management
+Add Products
+Update Products
+Logout
+
+
+User Interface
+
+Home Page
+Product Details & Review Products
+User Login & Signup
+Update User Profile
+Add Shipping Address
+Cart
+Payment Method
+Order History
+Contact
+Logout
